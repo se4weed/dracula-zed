@@ -20,5 +20,5 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/zed/archi
 #### Activating theme
 
 1. Copy the `dracula.json` file to `~/.config/zed/themes`.
-2. Select the theme (`Settings` ➡️ `Select Theme` ➡️ `dracula`).
+2. Select the theme (`Settings` ➡️ `Select Theme` ➡️ `Dracula`, `Dracula Solid`, `Dracula Soft`, or `Dracula Light (Alucard)`).
 3. Boom! It's working ✨

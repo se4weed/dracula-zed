@@ -14,6 +14,20 @@
 
 All instructions can be found at [draculatheme.com/zed](https://draculatheme.com/zed).
 
+### Dracula Soft
+
+Select **Dracula Soft** in Zed's theme selector for a port of the official
+[VS Code Dracula Soft](https://github.com/dracula/visual-studio-code) theme
+(source version 2.25.1). UI, terminal, and syntax colors use the values produced
+by its [Soft generator](https://github.com/dracula/visual-studio-code/blob/main/scripts/generate.js),
+including the original alpha values and unchanged orange accents.
+
+TextMate rules are mapped to Zed's syntax captures, preserving supported italic
+and bold styles. Language-specific TextMate overrides cannot be reproduced by
+Zed's theme format. VS Code's active-line border has no Zed equivalent, so the
+active line keeps the editor background. UI roles without a direct equivalent
+use the closest source role; unspecified colors use Zed's defaults.
+
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/zed/graphs/contributors).
