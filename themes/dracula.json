@@ -858,7 +858,7 @@
         "ghost_element.active": "#44475A75",
         "ghost_element.selected": "#44475A75",
         "text": "#f6f6f4",
-        "text.muted": "#7b7f8b",
+        "text.muted": "#f6f6f4",
         "text.placeholder": "#7b7f8b",
         "text.disabled": "#7b7f8b",
         "text.accent": "#bf9eee",
